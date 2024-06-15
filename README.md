@@ -7,7 +7,6 @@ Unleash the power of emojis and bring your website to life with this mesmerizing
 - **Enchanting Emoji Trail**: Watch in awe as a trail of emojis magically appears, leaving a delightful path behind your cursor or any interacted element.
 - **Customizable Characters**: Express your unique personality by choosing your favorite emojis to be part of the trail.
 - **Color Explosion**: Bring vibrancy to your website by customizing the colors of the emoji trail to match your branding or personal preferences.
-- **Animation Control**: Adjust the animation speed and duration to achieve the perfect level of liveliness and fluidity.
 - **Cross-Browser Compatibility**: Enjoy the emoji trail animation seamlessly across various modern web browsers
 
 ## 🚀 Getting Started 🚀
